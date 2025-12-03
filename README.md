@@ -30,3 +30,4 @@ et qui clique sur l'échelle briser les morceaux vont disparaitre de sopn invent
 que sa arrive cohérament pas n'importe quand.
 
 ## crédits
+utilisation du site web ZapSplat pour les sons utiliser dans le jeu (UN MOMENT DE SILENCE).
