@@ -31,3 +31,4 @@ que sa arrive cohérament pas n'importe quand.
 
 ## crédits
 utilisation du site web ZapSplat pour les sons utiliser dans le jeu (UN MOMENT DE SILENCE).
+utilisation additionel du site web freesound.org pour certains sons du jeu ) creeking door : https://freesound.org/people/borQue/sounds/365100/?
